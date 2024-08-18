@@ -4,5 +4,5 @@ Provides different branches that match a specific Laravel framework version. The
 
 
 ## Current Versions
-1. Laravel 11.9 - this is created from running the current `composer create-project laravel/laravel` command
-2. Laravel 9.19 -  this base was copied from the existing [fly-apps/fly-launch-laravel](https://github.com/fly-apps/fly-launch-laravel) repository
+1. [Laravel 11.9](https://github.com/fly-apps/fly-launch-laravel-bases/tree/base_11) - this is created from running the current `composer create-project laravel/laravel` command
+2. [Laravel 9.19](https://github.com/fly-apps/fly-launch-laravel-bases/tree/base_9) - this base was copied from the existing [fly-apps/fly-launch-laravel](https://github.com/fly-apps/fly-launch-laravel) repository
