@@ -8,5 +8,5 @@ Route::get('/', function () {
 
 
 Route::get('/framework-version', function () {
-    return 11;
+    return 11.9;
 });
